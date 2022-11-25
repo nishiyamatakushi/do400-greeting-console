@@ -14,6 +14,6 @@ spec:
   output:
     to:
       kind: DockerImage
-      name: quay.io/nishiyama.takushi/greeting-console
+      name: quay.io/nishiyama_takushi/greeting-console
     pushSecret:
       name: quay-credentials
